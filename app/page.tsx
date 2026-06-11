@@ -3,6 +3,7 @@ import { Hero } from '@/components/hero'
 import { About } from '@/components/about'
 import { Features } from '@/components/features'
 import { Vision } from '@/components/vision'
+import { Contact } from '@/components/contact'
 import { SiteFooter } from '@/components/site-footer'
 
 export default function Page() {
@@ -13,6 +14,7 @@ export default function Page() {
       <About />
       <Features />
       <Vision />
+      <Contact />
       <SiteFooter />
     </main>
   )

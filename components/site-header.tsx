@@ -34,7 +34,9 @@ export function SiteHeader() {
           {[
             ['About', '#about'],
             ['Features', '#features'],
+            ['Platform', '/platform'],
             ['Vision', '#vision'],
+            ['Contact', '#contact'],
           ].map(([label, href]) => (
             <a
               key={href}

@@ -30,6 +30,12 @@ export function SiteFooter() {
             <p className="mt-3 font-serif text-base italic text-muted-foreground">
               Intelligence Behind Every Address
             </p>
+            <p className="mt-4 max-w-md font-sans text-sm leading-relaxed text-muted-foreground">
+              Transforming urban, social, environmental, and infrastructure
+              data into meaningful neighborhood intelligence that empowers
+              citizens, investors, businesses, planners, and governments to make
+              better decisions and build stronger communities.
+            </p>
           </div>
 
           <div className="flex items-center gap-2">
@@ -50,7 +56,7 @@ export function SiteFooter() {
             Launching Soon Across India
           </p>
           <p className="font-sans text-xs text-muted-foreground">
-            &copy; {new Date().getFullYear()} HabitusIQ. All rights reserved.
+            &copy; 2026 HabitusIQ. All Rights Reserved.
           </p>
         </div>
       </div>
